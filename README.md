@@ -2,6 +2,9 @@
 
 A recipe platform that provides users with cooking guides and a space to discuss their favorite dish
 
+[Food Recipe Creative Presentation.pdf](https://github.com/user-attachments/files/16042747/Food.Recipe.Creative.Presentation.pdf)
+
+
 ## Table of Contents
 
 - [Installation](#installation)
